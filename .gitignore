@@ -123,8 +123,6 @@ dist
 .pnp.*
 
 
-#files
-project-2.html
-project-3.html
+
 
 # End of https://www.toptal.com/developers/gitignore/api/node
